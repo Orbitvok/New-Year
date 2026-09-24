@@ -5,6 +5,10 @@ import (
 	"time"
 )
 
+func newYear() {
+
+}
+
 func main() {
 	now := time.Now()
 
